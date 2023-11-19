@@ -1,0 +1,15 @@
+ol li{
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+ul li{
+    color: aqua;
+    font-weight: bolder;
+    
+    font-size: larger;
+}
+*{
+    background-color: black;
+    color: white;
+}
